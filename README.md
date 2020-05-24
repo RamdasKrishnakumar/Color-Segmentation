@@ -4,7 +4,7 @@
 
 The prerequisite of this method is obviously that the relevant object should be differently colored than the background of the image. A typical example of this is extraction of foliage from background dirt for plant identification.<br/>
 For more information go to this article:<br/>
- <Github File Link> <https://github.com/teamHexMtech/IRS-RS-2019-04-27-IS01PT-GRP-Hex-ISS_CHATBOT/tree/master/UserGuide>
+ [Medium Article](https://medium.com/@kramdas1996/image-segmentation-based-on-color-masking-907a7da56f96)
  
  <br/>
  <br/>
